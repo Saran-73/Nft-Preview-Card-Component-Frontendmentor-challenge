@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: ()
-- Live Site URL: (http://127.0.0.1:5500/)
+- Live Site URL: ()
 
 ## My process
 
