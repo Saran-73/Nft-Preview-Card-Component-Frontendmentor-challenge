@@ -91,14 +91,5 @@ body{
     color:var(--hover-color);
 }
 
-.attribution {
-    font-size: 11px; 
-    color:hsl(215, 70%, 100%); 
-    position:absolute;bottom:0%;
-    left:50%;transform:translate(-50%,-50%);
-}
-.attribution a {
-     color: hsl(215, 100%, 80%);
-     text-decoration:none;
-     }
+
   
