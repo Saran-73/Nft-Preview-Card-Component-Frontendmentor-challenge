@@ -24,6 +24,9 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+## Link
+  Live site URL:[preview](https://saran-73.github.io/Nft-Preview-Card-Component-Frontendmentor-challenge/);
+
 ### Screenshot
 
 ![desktop version screenshot](./screenshot.PNG)
