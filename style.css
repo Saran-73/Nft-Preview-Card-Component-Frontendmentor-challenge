@@ -23,7 +23,7 @@ body{
     border-radius:10px;    
 }
 #img{
-  height:253px; position:relative;
+  height:253px; position:relative; cursor:pointer;
 }
  #img::before{ 
     content:'';
@@ -33,7 +33,7 @@ body{
     opacity:0;
     position:absolute;
     bottom:0px;top:0px;right:0;left:0;
-    cursor:pointer;
+   
 }
 #img:hover:before{
     opacity:0.6;
